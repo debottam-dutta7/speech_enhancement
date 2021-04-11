@@ -5,5 +5,5 @@ The project deals with multiple perceptually relevant distortion measures for sp
 Codes are written in MATLAB.
 
 How to run: 
-1. Put data path in line in tfa_main.m
+1. Put data path in line 18 in tfa_main.m
 2. run tfa_main.m 
